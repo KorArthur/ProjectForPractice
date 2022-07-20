@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProjectPass2</name>
+    </assembly>
+    <members>
+        <member name="M:ProjectPass2.Controllers.GenericController.Get(System.Int32,System.Int32)">
+             <summary>
+             /Основной метод генерации данных: принимает целое значение длинны пароля и длинны соли
+              для дальнейшего использования в программе, для получения 
+              сгенерированного пароля соли и хеша 
+              
+            
+             </summary>
+             
+             
+             <param name="ls">Параметр для длинны соли</param>
+             
+             <param name="lp">Параметр для длинны пароля</param>
+             <returns></returns>
+            
+        </member>
+    </members>
+</doc>
